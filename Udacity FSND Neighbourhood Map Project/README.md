@@ -1,26 +1,21 @@
-# South Bay Neighborhood Map Project 🚋
+# Mumbai Neighborhood Map Project 🚋
 
-![Part of the Udacity Front-End Web Development Nanodegree](https://img.shields.io/badge/Udacity-Front--End%20Web%20Developer%20Nanodegree-02b3e4.svg)
+![Part of the Udacity Full Stack Web Development Nanodegree]
 
-Developed for Project 5-1 of the **Udacity Front-End Web Developer Nanodegree**. 🎓
+Developed for Project 5-1 of the **Udacity Full Stack Web Developer Nanodegree**. 
 
-This is the **Udacity Neighborhood Map Project**. It's intended as a challenge to put together a website from various APIs. This includes Google Maps and other location-based services like Foursquare. 🔰
+This is the **Udacity Neighborhood Map Project**. It's intended as a challenge to put together a website from various APIs. This includes Google Maps and other location-based services like Foursquare. 
 
-Included is a list of my and my friends' favorite restaurants and hangouts in the South Bay. 🍽 There's also with some local parks in the area. 🌳 🌲
+The app allows you to filter the list down as you type. In return, it displays the locations on the map. There's also extra info pulled from Foursquare where available. This includes websites and phone numbers.
 
-The app allows you to filter the list down as you type. In return, it displays the locations on the map. There's also extra info pulled from Foursquare where available. This includes websites and phone numbers. ☎️
-
-The app is responsive, too! It resizes using CSS Flexbox and media queries. It can recalibrate itself based on your screen size -- try resizing the window! 🖥 📲
+The app is responsive, too! It resizes using CSS Flexbox and media queries. It can recalibrate itself based on your screen size -- try resizing the window!
 
 # How To Use It
 
 Click here to try it out:
 
-➡  <http://lastres0rt.github.io/udacity-neighborhood-map-project/> 🗺
+➡  <https://siddhantbhavsar.github.io-Udacity-FSND-Neighbourhood-Map-Project/> 
 
-![Screenshot of Map](http://i.imgur.com/gOvmzrv.png)
 
 # Recent Updates
-## Last updated February 9, 2017
-
-Updated with new location of Hacker Dojo (old one has been left intact for historical purposes) 👩🏽‍🏫
+## Last updated March 10, 2017
