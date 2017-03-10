@@ -1,8 +1,8 @@
-# Mumbai Neighborhood Map Project 🚋
+# Mumbai Neighborhood Map Project 
 
 ![Part of the Udacity Full Stack Web Development Nanodegree]
 
-Developed for Project 5-1 of the **Udacity Full Stack Web Developer Nanodegree**. 
+Developed for Project 10-3 of the **Udacity Full Stack Web Developer Nanodegree**. 
 
 This is the **Udacity Neighborhood Map Project**. It's intended as a challenge to put together a website from various APIs. This includes Google Maps and other location-based services like Foursquare. 
 
@@ -14,7 +14,7 @@ The app is responsive, too! It resizes using CSS Flexbox and media queries. It c
 
 Click here to try it out:
 
-➡  <https://siddhantbhavsar.github.io-Udacity-FSND-Neighbourhood-Map-Project/> 
+➡  <https://siddhantbhavsar.github.io/Udacity FSND Neighbourhood Map Project/> 
 
 
 # Recent Updates
