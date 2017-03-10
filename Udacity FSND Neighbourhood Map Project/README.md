@@ -14,7 +14,7 @@ The app is responsive, too! It resizes using CSS Flexbox and media queries. It c
 
 Click here to try it out:
 
-➡  <https://siddhantbhavsar.github.io/Udacity FSND Neighbourhood Map Project/> 
+➡  <https://siddhantbhavsar.github.io/Udacity%20FSND%20Neighbourhood%20Map%20Project/> 
 
 
 # Recent Updates
