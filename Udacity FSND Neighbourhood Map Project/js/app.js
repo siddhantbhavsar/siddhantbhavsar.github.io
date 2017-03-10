@@ -164,7 +164,7 @@ function AppViewModel() {
 
 	map = new google.maps.Map(document.getElementById('map'), {
 			zoom: 12,
-			center: {lat: 37.370, lng: -122.002}
+			center: {lat: 19.00, lng: 70.00}
 	});
 
 	// Foursquare API settings
