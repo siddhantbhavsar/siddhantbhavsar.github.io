@@ -15,11 +15,11 @@
 
     // Consumer key
     //【変更】
-    $conskey = 'xxx';
+    $conskey = '228CV7';
 
     // Consumer secret
     //【変更】
-    $conssec = 'xxx';
+    $conssec = '459c08a7eb0dbe93fc0cd0c669f2d330';
 
     // Fitbit API call (get activities for specified date)
     //【変更】fitbitの履歴が記録されている日付に変更。
